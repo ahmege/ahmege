@@ -4,8 +4,8 @@ I'm an entepreneur based in Hargeisa, Somaliland. I Spend most of time building 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Twitter-blue/?style=for-the-badge&logo=appveyor)](https://twitter.com/ahmege)] 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-LinkedIn-blue/?style=for-the-badge&logo=appveyor](https://www.linkedin.com/in/ahmed-omer-26958629)]
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Twitter-blue/?style=for-the-badge&logo=appveyor)](https://twitter.com/ahmege) 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-LinkedIn-blue/?style=for-the-badge&logo=appveyor](https://www.linkedin.com/in/ahmed-omer-26958629)
 [![Mail Badge](https://img.shields.io/badge/Mail-Mail-blue/?style=for-the-badge&logo=appveyor)](mailto:ahmed.ege0@gmail.com)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
