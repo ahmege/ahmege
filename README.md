@@ -1,6 +1,6 @@
-## Hi I'm Mubarak <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Ahmed omer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time coding outstanding projects.
+I'm an entepreneur based in Hargeisa, Somaliland. I Spend most of time building products that solve problems and that includes coding and collaborating with wide range of professionals 
 
 :mailbox: Reach me out!
 
